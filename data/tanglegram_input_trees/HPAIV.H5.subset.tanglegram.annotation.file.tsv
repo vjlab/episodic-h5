@@ -1,0 +1,910 @@
+Taxa	clade	Region	Host_Class	Subtype	Country	HA_Segment_Id	New_Data	Clade
+AB972683	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	AB972683	NA	2.3.2.1c
+AB972731	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	AB972731	NA	2.3.2.1c
+AB979455	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N1	Vietnam	AB979455	NA	2.3.4.4g
+EPI1006736	2.3.4.4x	Japan Korea	Wild_Birds	H5N6	South Korea	EPI1006736	NA	2.3.4.4e
+EPI1007683	2.3.4.4b	Europe	Wild_Birds	H5N8	Belgium	EPI1007683	NA	2.3.4.4b
+EPI1009286	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1009286	NA	2.3.2.1c
+EPI1009359	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1009359	NA	2.3.2.1c
+EPI1009383	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1009383	NA	2.3.2.1c
+EPI1009444	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1009444	NA	2.3.2.1c
+EPI1009520	2.3.4.4x	China	Wild_Birds	H5N6	China	EPI1009520	NA	2.3.4.4e
+EPI1009536	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1009536	NA	2.3.4.4b
+EPI101483	2.2	West Asia	Wild_Birds	H5N1	Russia	EPI101483	NA	2.2
+EPI101724	2.2	West Asia	Wild_Birds	H5N1	Russia	EPI101724	NA	2.2
+EPI1027539	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1027539	NA	2.3.2.1c
+EPI1027627	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1027627	NA	2.3.2.1c
+EPI1027635	2.3.2.1	Southeast Asia	Wild_Birds	H5N1	Indonesia	EPI1027635	NA	2.3.2.1c
+EPI1027714	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1027714	NA	2.3.2.1c
+EPI1027761	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1027761	NA	2.3.2.1c
+EPI1028076	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1028076	NA	2.3.4.4b
+EPI1034518	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1034518	NA	2.3.4.4h
+EPI1055352	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1055352	NA	2.3.4.4h
+EPI1055360	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1055360	NA	2.3.4.4h
+EPI1060720	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1060720	NA	2.3.4.4e
+EPI1060731	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1060731	NA	2.3.4.4h
+EPI1060739	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1060739	NA	2.3.4.4e
+EPI1060775	2.3.4.4x	China	Wild_Birds	H5N6	China	EPI1060775	NA	2.3.4.4e
+EPI1062201	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1062201	NA	2.3.2.1c
+EPI1062202	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1062202	NA	2.3.2.1b
+EPI1062205	Minor_clade	China	Domestic_Birds	H5N1	China	EPI1062205	NA	7.2
+EPI106316	2.2	West Asia	Wild_Birds	H5N1	Russia	EPI106316	NA	2.2
+EPI1082911	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1082911	NA	2.3.4.4
+EPI1082912	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1082912	NA	2.3.4.4h
+EPI1082913	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1082913	NA	2.3.4.4d
+EPI1090115	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI1090115	NA	2.3.2.1c
+EPI1091692	2.3.2.1	China	Domestic_Birds	H5N6	China	EPI1091692	NA	2.3.2.1c
+EPI1095735	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1095735	NA	2.1.3.2a
+EPI1095743	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1095743	NA	2.1.3.2a
+EPI1095775	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1095775	NA	2.1.3.2b
+EPI1098355	2.3.4.4x	China	Human	H5N6	China	EPI1098355	NA	2.3.4.4d
+EPI1098826	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1098826	NA	2.3.2.1a
+EPI1099037	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1099037	NA	2.3.2.1a
+EPI1119065	2.3.4.4b	China	Wild_Birds	H5N6	Taiwan	EPI1119065	NA	2.3.4.4b
+EPI1122877	2.3.4.4b	Europe	Domestic_Birds	H5N6	Greece	EPI1122877	NA	2.3.4.4b
+EPI1123343	2.3.4.4b	Japan Korea	Domestic_Birds	H5N8	South Korea	EPI1123343	NA	2.3.4.4b
+EPI1134293	2.3.4.4x	Japan Korea	Wild_Birds	H5N6	Japan	EPI1134293	NA	2.3.4.4e
+EPI1144101	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1144101	NA	2.3.4.4b
+EPI1144165	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1144165	NA	2.3.4.4b
+EPI1144254	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1144254	NA	2.3.4.4b
+EPI1144433	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1144433	NA	2.3.4.4b
+EPI1144449	2.3.4.4x	China	Wild_Birds	H5N8	China	EPI1144449	NA	2.3.4.4d
+EPI1145084	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1145084	NA	2.3.4.4b
+EPI1145784	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1145784	NA	2.3.4.4b
+EPI1151560	2.3.4.4x	Japan Korea	Wild_Birds	H5N6	Japan	EPI1151560	NA	2.3.4.4e
+EPI115476	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI115476	NA	2.1.1
+EPI1158108	2.3.4.4b	West Asia	Domestic_Birds	H5N2	Russia	EPI1158108	NA	2.3.4.4b
+EPI1158768	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1158768	NA	2.3.2.1c
+EPI1158776	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1158776	NA	2.3.4.4d
+EPI1158800	Minor_clade	China	Domestic_Birds	H5N2	China	EPI1158800	NA	7.2
+EPI1159857	2.3.4.4x	China	Wild_Birds	H5N6	China	EPI1159857	NA	2.3.4.4h
+EPI1159957	2.3.4.4x	China	Wild_Birds	H5N6	China	EPI1159957	NA	2.3.4.4
+EPI1161278	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI1161278	NA	2.3.2.1c
+EPI1161286	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI1161286	NA	2.3.2.1c
+EPI1184338	2.3.4.4x	Japan Korea	Wild_Birds	H5N6	Japan	EPI1184338	NA	2.3.4.4
+EPI1187481	2.3.4.4x	North America	Domestic_Birds	H5N2	United States	EPI1187481	NA	2.3.4.4c
+EPI1213859	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1213859	NA	2.3.2.1a
+EPI1213876	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1213876	NA	2.3.2.1a
+EPI1215564	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1215564	NA	2.3.2.1c
+EPI1215584	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1215584	NA	2.1.3.2b
+EPI1223834	2.3.4.4b	Africa	Domestic_Birds	H5N8	Democratic Republic of the Congo	EPI1223834	NA	2.3.4.4b
+EPI1226469	2.3.4.4b	Europe	Domestic_Birds	H5N8	Belgium	EPI1226469	NA	2.3.4.4b
+EPI124105	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI124105	NA	2.1.3.2
+EPI124234	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI124234	NA	2.1.3.2
+EPI124253	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI124253	NA	2.1.3.2
+EPI124309	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI124309	NA	2.1.3.2
+EPI124438	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI124438	NA	2.1.2
+EPI124475	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI124475	NA	2.1.3.2
+EPI124494	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI124494	NA	2.1.3.2
+EPI125411	2.2	West Asia	Domestic_Birds	H5N1	Russia	EPI125411	NA	2.2
+EPI1258049	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1258049	NA	2.3.4.4h
+EPI1261670	2.3.4.4b	Europe	Domestic_Birds	H5N8	Italy	EPI1261670	NA	2.3.4.4b
+EPI1261877	2.3.4.4b	Europe	Domestic_Birds	H5N8	Italy	EPI1261877	NA	2.3.4.4b
+EPI1272962	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1272962	NA	2.3.2.1c
+EPI1273030	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1273030	NA	2.3.2.1c
+EPI1273062	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1273062	NA	2.3.2.1c
+EPI1273078	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1273078	NA	2.3.2.1c
+EPI1273102	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1273102	NA	2.3.2.1c
+EPI1273110	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1273110	NA	2.3.2.1c
+EPI1273118	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1273118	NA	2.3.2.1c
+EPI1273142	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1273142	NA	2.3.2.1c
+EPI1273166	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1273166	NA	2.3.2.1c
+EPI1273270	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1273270	NA	2.3.2.1c
+EPI1279361	2.3.4.4b	Europe	Domestic_Birds	H5N6	Germany	EPI1279361	NA	2.3.4.4b
+EPI128362	2.2	West Asia	Domestic_Birds	H5N1	Russia	EPI128362	NA	2.2
+EPI1301401	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1301401	NA	2.3.2.1c
+EPI1304962	2.3.2.1	Africa	Domestic_Birds	H5N1	Nigeria	EPI1304962	NA	2.3.2.1c
+EPI1308487	2.3.2.1	Africa	Domestic_Birds	H5N1	Nigeria	EPI1308487	NA	2.3.2.1c
+EPI1308587	2.3.2.1	Africa	Domestic_Birds	H5N1	Nigeria	EPI1308587	NA	2.3.2.1c
+EPI1309417	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1309417	NA	2.3.2.1a
+EPI1309502	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1309502	NA	2.3.2.1a
+EPI1326815	2.3.4.4x	China	Human	H5N6	China	EPI1326815	NA	2.3.4.4h
+EPI1327136	2.3.4.4b	Europe	Wild_Birds	H5N6	Netherlands	EPI1327136	NA	2.3.4.4b
+EPI1327144	2.3.4.4b	Europe	Wild_Birds	H5N6	Netherlands	EPI1327144	NA	2.3.4.4b
+EPI1328836	2.3.2.1	Africa	Domestic_Birds	H5N1	Ghana	EPI1328836	NA	2.3.2.1c
+EPI1329121	2.3.4.4b	South Asia	Domestic_Birds	H5N6	Bangladesh	EPI1329121	NA	2.3.4.4b
+EPI1330468	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1330468	NA	2.3.2.1a
+EPI1331410	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1331410	NA	2.3.2.1a
+EPI1338558	2.3.4.4b	Japan Korea	Domestic_Birds	H5N6	Japan	EPI1338558	NA	2.3.4.4b
+EPI1342055	2.3.4.4b	Japan Korea	Domestic_Birds	H5N6	South Korea	EPI1342055	NA	2.3.4.4b
+EPI1351443	2.3.4.4b	West Asia	Domestic_Birds	H5N8	Russia	EPI1351443	NA	2.3.4.4b
+EPI1352805	2.3.4.4x	China	Human	H5N6	China	EPI1352805	NA	2.3.4.4h
+EPI1352829	2.3.4.4x	China	Human	H5N6	China	EPI1352829	NA	2.3.4.4h
+EPI1353750	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	laos	EPI1353750	NA	2.3.2.1c
+EPI1353774	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	laos	EPI1353774	NA	2.3.2.1c
+EPI1353814	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	laos	EPI1353814	NA	2.3.2.1c
+EPI136605	2.2	Europe	Wild_Birds	H5N1	Czech Republic	EPI136605	NA	2.2
+EPI136627	2.2	Europe	Domestic_Birds	H5N1	Czech Republic	EPI136627	NA	2.2
+EPI1377564	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377564	NA	2.1.3.3
+EPI1377572	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377572	NA	2.1.3.2
+EPI1377588	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377588	NA	2.1.3.2b
+EPI1377596	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377596	NA	2.1.3.2b
+EPI1377620	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377620	NA	2.1.3.2b
+EPI1377644	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377644	NA	2.1.3.2b
+EPI1377684	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377684	NA	2.1.3.2a
+EPI1377692	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377692	NA	2.1.3.2a
+EPI1377720	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377720	NA	2.1.3.2a
+EPI1377750	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377750	NA	2.1.3.2b
+EPI1377772	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377772	NA	2.1.3.2a
+EPI1377780	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377780	NA	2.1.3.2
+EPI1377788	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377788	NA	2.1.3.2
+EPI1377796	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377796	NA	2.1.3.2b
+EPI1377812	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377812	NA	2.1.3.2b
+EPI1377833	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI1377833	NA	2.1.3.2
+EPI1381391	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	EPI1381391	NA	2.3.4.4b
+EPI1381395	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	EPI1381395	NA	2.3.4.4b
+EPI1381402	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	EPI1381402	NA	2.3.4.4b
+EPI1381405	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI1381405	NA	2.2.1.2
+EPI1387248	2.3.4.4b	Africa	Domestic_Birds	H5N2	Egypt	EPI1387248	NA	2.3.4.4b
+EPI1394243	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1394243	NA	2.3.4.4h
+EPI1435113	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1435113	NA	2.3.4.4h
+EPI1435169	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1435169	NA	2.3.4.4d
+EPI1435654	2.3.2.1	South Asia	Human	H5N1	Nepal	EPI1435654	NA	2.3.2.1a
+EPI1498932	2.3.4.4b	Europe	Wild_Birds	H5N8	United Kingdom	EPI1498932	NA	2.3.4.4b
+EPI1508915	2.2	South Asia	Domestic_Birds	H5N1	India	EPI1508915	NA	2.2.2
+EPI1511084	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Myanmar	EPI1511084	NA	2.3.2.1c
+EPI1514094	2.3.4.4b	Africa	Domestic_Birds	H5N8	South Africa	EPI1514094	NA	2.3.4.4b
+EPI1517056	Minor_clade	China	Domestic_Birds	H5N1	China	EPI1517056	NA	2.3.4
+EPI1517072	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1517072	NA	2.3.2.1b
+EPI1536787	Minor_clade	China	Domestic_Birds	H5N1	China	EPI1536787	NA	2.3.4
+EPI1549497	2.3.2.1	China	Wild_Birds	H5N1	China	EPI1549497	NA	2.3.2.1c
+EPI1555832	2.3.4.4x	China	Domestic_Birds	H5N2	China	EPI1555832	NA	2.3.4.4c
+EPI1555913	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1555913	NA	2.3.2.1a
+EPI1556097	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1556097	NA	2.3.2.1a
+EPI1564193	2.3.4.4b	West Asia	Wild_Birds	H5N8	Iran	EPI1564193	NA	2.3.4.4b
+EPI1574305	2.3.4.4b	China	Wild_Birds	H5N6	China	EPI1574305	NA	2.3.4.4b
+EPI1574313	2.3.4.4b	China	Wild_Birds	H5N6	China	EPI1574313	NA	2.3.4.4b
+EPI1574329	2.3.4.4b	China	Domestic_Birds	H5N6	China	EPI1574329	NA	2.3.4.4b
+EPI1575298	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI1575298	NA	2.2.1.2
+EPI1575319	2.3.4.4b	Africa	Wild_Birds	H5N8	Egypt	EPI1575319	NA	2.3.4.4b
+EPI1576915	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1576915	NA	2.3.4.4f
+EPI1581333	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1581333	NA	2.3.2.1a
+EPI1581349	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1581349	NA	2.3.2.1a
+EPI1581416	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1581416	NA	2.3.2.1a
+EPI1581597	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1581597	NA	2.3.2.1a
+EPI1581618	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1581618	NA	2.3.2.1a
+EPI1581626	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1581626	NA	2.3.2.1a
+EPI1581655	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1581655	NA	2.3.2.1a
+EPI1581730	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1581730	NA	2.3.2.1a
+EPI1583312	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1583312	NA	2.3.4.4h
+EPI1583598	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI1583598	NA	2.3.2.1c
+EPI1584022	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1584022	NA	2.3.4.4g
+EPI1591317	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI1591317	NA	2.3.2.1c
+EPI1594039	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1594039	NA	2.3.2.1c
+EPI1600652	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI1600652	NA	2.3.2.1c
+EPI1601906	2.3.4.4b	West Asia	Wild_Birds	H5N3	Iran	EPI1601906	NA	2.3.4.4b
+EPI160945	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Thailand	EPI160945	NA	1
+EPI1636681	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	EPI1636681	NA	2.3.4.4b
+EPI1638797	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	EPI1638797	NA	2.3.4.4b
+EPI1639799	2.3.2.1	China	Wild_Birds	H5N1	China	EPI1639799	NA	2.3.2.1c
+EPI1639887	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1639887	NA	2.3.4.4g
+EPI1639919	2.3.4.4x	China	Domestic_Birds	H5N2	China	EPI1639919	NA	2.3.4.4c
+EPI1639983	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1639983	NA	2.3.4.4b
+EPI1640432	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1640432	NA	2.3.2.1c
+EPI1640456	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1640456	NA	2.3.2.1c
+EPI1640472	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1640472	NA	2.3.2.1c
+EPI1640852	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1640852	NA	2.3.2.1c
+EPI1640933	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1640933	NA	2.3.2.1c
+EPI1641133	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1641133	NA	2.3.2.1c
+EPI1641157	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1641157	NA	2.3.2.1c
+EPI164250	Minor_clade	China	Human	H5N1	China	EPI164250	NA	2.3.4
+EPI164266	Minor_clade	China	Human	H5N1	China	EPI164266	NA	2.3.4
+EPI164650	2.2	Europe	Wild_Birds	H5N1	Sweden	EPI164650	NA	2.2
+EPI164651	2.2	Europe	Wild_Birds	H5N1	Sweden	EPI164651	NA	2.2.1
+EPI164652	2.2	Europe	Wild_Birds	H5N1	Sweden	EPI164652	NA	2.2
+EPI1647334	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1647334	NA	2.3.2.1c
+EPI1647342	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1647342	NA	2.3.2.1c
+EPI1647382	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1647382	NA	2.3.2.1c
+EPI1665384	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1665384	NA	2.3.4.4g
+EPI1666962	2.3.4.4b	Africa	Domestic_Birds	H5N8	Nigeria	EPI1666962	NA	2.3.4.4b
+EPI1669669	2.3.4.4b	Europe	Domestic_Birds	H5N8	Poland	EPI1669669	NA	2.3.4.4b
+EPI1680490	2.3.4.4x	Japan Korea	Domestic_Birds	H5N8	South Korea	EPI1680490	NA	2.3.4.4c
+EPI1681615	2.3.4.4x	Japan Korea	Domestic_Birds	H5N8	South Korea	EPI1681615	NA	2.3.4.4c
+EPI1682203	2.3.4.4x	Japan Korea	Domestic_Birds	H5N8	South Korea	EPI1682203	NA	2.3.4.4c
+EPI1682637	2.3.4.4x	Japan Korea	Domestic_Birds	H5N8	South Korea	EPI1682637	NA	2.3.4.4c
+EPI1682675	2.3.4.4x	Japan Korea	Domestic_Birds	H5N8	South Korea	EPI1682675	NA	2.3.4.4c
+EPI1682820	2.3.4.4x	Japan Korea	Domestic_Birds	H5N8	South Korea	EPI1682820	NA	2.3.4.4c
+EPI168662	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI168662	NA	2.2.1
+EPI1701733	2.3.4.4b	West Asia	Domestic_Birds	H5N8	Iran	EPI1701733	NA	2.3.4.4b
+EPI1701789	2.3.2.1	West Asia	Domestic_Birds	H5N1	Iran	EPI1701789	NA	2.3.2.1c
+EPI1701805	2.3.4.4b	West Asia	Wild_Birds	H5N6	Iran	EPI1701805	NA	2.3.4.4b
+EPI170682	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI170682	NA	2.3.2
+EPI1721676	2.3.4.4b	Europe	Domestic_Birds	H5N8	Germany	EPI1721676	NA	2.3.4.4b
+EPI1721818	2.3.4.4b	Europe	Domestic_Birds	H5N8	Bulgaria	EPI1721818	NA	2.3.4.4b
+EPI1721834	2.3.4.4b	Europe	Domestic_Birds	H5N8	Bulgaria	EPI1721834	NA	2.3.4.4b
+EPI1721874	2.3.4.4b	Europe	Wild_Birds	H5N8	Bulgaria	EPI1721874	NA	2.3.4.4b
+EPI1721914	2.3.4.4b	Europe	Domestic_Birds	H5N8	Bulgaria	EPI1721914	NA	2.3.4.4b
+EPI174641	Minor_clade	China	Domestic_Birds	H5N1	China	EPI174641	NA	2.3.4
+EPI174645	Minor_clade	China	Domestic_Birds	H5N1	China	EPI174645	NA	2.3.4
+EPI174647	Minor_clade	China	Domestic_Birds	H5N1	China	EPI174647	NA	2.3.4
+EPI174649	Minor_clade	China	Domestic_Birds	H5N1	China	EPI174649	NA	2.3.4
+EPI174651	Minor_clade	China	Domestic_Birds	H5N1	China	EPI174651	NA	2.3.4
+EPI174652	Minor_clade	China	Domestic_Birds	H5N1	China	EPI174652	NA	2.3.4
+EPI174654	Minor_clade	China	Domestic_Birds	H5N1	China	EPI174654	NA	2.3.4
+EPI174655	Minor_clade	China	Domestic_Birds	H5N1	China	EPI174655	NA	2.3.4
+EPI174900	2.2	South Asia	Domestic_Birds	H5N1	India	EPI174900	NA	2.2
+EPI175656	2.2	South Asia	Domestic_Birds	H5N1	India	EPI175656	NA	2.2.2.1
+EPI1771061	2.3.4.4x	Japan Korea	Domestic_Birds	H5N6	Japan	EPI1771061	NA	2.3.4.4h
+EPI1773156	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1773156	NA	2.3.4.4c
+EPI1773180	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1773180	NA	2.3.4.4c
+EPI1776431	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1776431	NA	2.3.4.4h
+EPI1776451	2.3.2.1	China	Domestic_Birds	H5N6	China	EPI1776451	NA	2.3.2.1c
+EPI1777107	2.3.4.4b	Africa	Domestic_Birds	H5N6	Nigeria	EPI1777107	NA	2.3.4.4b
+EPI1777292	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1777292	NA	2.3.2.1a
+EPI1777324	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1777324	NA	2.3.2.1a
+EPI1777970	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1777970	NA	2.3.2.1a
+EPI1778093	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1778093	NA	2.3.2.1a
+EPI1778153	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1778153	NA	2.3.2.1a
+EPI1778423	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI1778423	NA	2.3.2.1c
+EPI1778543	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1778543	NA	2.3.4.4g
+EPI1780152	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1780152	NA	2.3.4.4e
+EPI1785731	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1785731	NA	2.3.4.4h
+EPI1787976	2.3.4.4b	Africa	Domestic_Birds	H5N8	South Africa	EPI1787976	NA	2.3.4.4b
+EPI1807275	2.3.4.4b	Europe	Domestic_Birds	H5N8	Bulgaria	EPI1807275	NA	2.3.4.4b
+EPI1807323	2.3.4.4b	Europe	Domestic_Birds	H5N2	Bulgaria	EPI1807323	NA	2.3.4.4b
+EPI1807331	2.3.4.4b	Europe	Domestic_Birds	H5N8	Bulgaria	EPI1807331	NA	2.3.4.4b
+EPI1807347	2.3.4.4b	Europe	Wild_Birds	H5N8	Bulgaria	EPI1807347	NA	2.3.4.4b
+EPI1811601	2.3.4.4b	West Asia	Domestic_Birds	H5N8	Kazakhstan	EPI1811601	NA	2.3.4.4b
+EPI1813185	2.3.4.4b	West Asia	Domestic_Birds	H5N8	Russia	EPI1813185	NA	2.3.4.4b
+EPI1813987	2.3.4.4b	Europe	Domestic_Birds	H5N8	Netherlands	EPI1813987	NA	2.3.4.4b
+EPI1814433	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1814433	NA	2.3.4.4h
+EPI1814727	2.3.4.4b	Europe	Wild_Birds	H5N8	Sweden	EPI1814727	NA	2.3.4.4b
+EPI1815503	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1815503	NA	2.3.4.4f
+EPI181620	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI181620	NA	2.1.1
+EPI181621	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI181621	NA	2.1.1
+EPI1819893	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1819893	NA	2.3.4.4c
+EPI1819963	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1819963	NA	2.3.4.4e
+EPI1819990	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1819990	NA	2.3.4.4h
+EPI182001	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI182001	NA	2.2.1
+EPI1820261	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1820261	NA	2.3.4.4e
+EPI182360	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI182360	NA	2.2.1
+EPI1825319	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1825319	NA	2.3.4.4h
+EPI1825343	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1825343	NA	2.3.4.4h
+EPI1827839	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1827839	NA	2.3.4.4h
+EPI1828023	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1828023	NA	2.3.4.4h
+EPI1831864	2.3.4.4x	West Asia	Wild_Birds	H5N6	Mongolia	EPI1831864	NA	2.3.4.4h
+EPI1833351	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1833351	NA	2.3.4.4h
+EPI1833687	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1833687	NA	2.3.4.4e
+EPI1834047	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1834047	NA	2.3.4.4e
+EPI1834279	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1834279	NA	2.3.4.4e
+EPI1834399	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1834399	NA	2.3.4.4e
+EPI1834495	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1834495	NA	2.3.4.4h
+EPI1834815	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1834815	NA	2.3.4.4h
+EPI1835215	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1835215	NA	2.3.4.4h
+EPI1835223	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1835223	NA	2.3.4.4h
+EPI1835287	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1835287	NA	2.3.4.4h
+EPI1836599	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1836599	NA	2.3.4.4h
+EPI1836671	2.3.4.4b	China	Domestic_Birds	H5N6	China	EPI1836671	NA	2.3.4.4b
+EPI1836679	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI1836679	NA	2.3.4.4h
+EPI1838640	2.3.4.4x	China	Human	H5N6	China	EPI1838640	NA	2.3.4.4h
+EPI1839149	2.3.4.4b	Japan Korea	Domestic_Birds	H5N8	Japan	EPI1839149	NA	2.3.4.4b
+EPI184079	2.2	Europe	Domestic_Birds	H5N1	Hungary	EPI184079	NA	2.2
+EPI184095	2.2	Europe	Wild_Birds	H5N1	Hungary	EPI184095	NA	2.2
+EPI1842096	2.3.4.4b	Japan Korea	Domestic_Birds	H5N8	Japan	EPI1842096	NA	2.3.4.4b
+EPI1842225	2.3.2.1	Southeast Asia	Human	H5N1	laos	EPI1842225	NA	2.3.2.1c
+EPI1844095	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI1844095	New_Data	2.3.4.4b
+EPI1846129	2.3.4.4b	Japan Korea	Domestic_Birds	H5N8	South Korea	EPI1846129	NA	2.3.4.4b
+EPI1847599	2.3.4.4b	Japan Korea	Wild_Birds	H5N8	Japan	EPI1847599	NA	2.3.4.4b
+EPI1847772	2.3.4.4b	Japan Korea	Wild_Birds	H5N8	Japan	EPI1847772	NA	2.3.4.4b
+EPI1848291	2.3.4.4x	China	Human	H5N6	China	EPI1848291	NA	2.3.4.4h
+EPI1850204	2.3.4.4b	Europe	Wild_Birds	H5N8	Poland	EPI1850204	NA	2.3.4.4b
+EPI1850518	2.3.4.4b	Europe	Wild_Birds	H5N5	Poland	EPI1850518	NA	2.3.4.4b
+EPI1851013	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	laos	EPI1851013	NA	2.3.2.1c
+EPI1851224	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	laos	EPI1851224	NA	2.3.4.4h
+EPI1851686	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	laos	EPI1851686	NA	2.3.2.1c
+EPI1851710	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	laos	EPI1851710	NA	2.3.2.1c
+EPI1851824	2.3.4.4b	Europe	Wild_Birds	H5N8	Norway	EPI1851824	NA	2.3.4.4b
+EPI1852982	2.3.4.4b	Europe	Domestic_Birds	H5N5	Sweden	EPI1852982	NA	2.3.4.4b
+EPI1853988	2.3.4.4b	Europe	Domestic_Birds	H5N8	Sweden	EPI1853988	NA	2.3.4.4b
+EPI1858220	2.3.4.4b	Europe	Domestic_Birds	H5N8	Italy	EPI1858220	NA	2.3.4.4b
+EPI1858228	2.3.4.4b	Europe	Domestic_Birds	H5N8	Romania	EPI1858228	NA	2.3.4.4b
+EPI1858468	2.3.4.4b	Europe	Domestic_Birds	H5N8	Czech Republic	EPI1858468	NA	2.3.4.4b
+EPI1858500	2.3.4.4b	Europe	Domestic_Birds	H5N8	Czech Republic	EPI1858500	NA	2.3.4.4b
+EPI1859755	2.3.4.4b	Europe	Wild_Birds	H5N3	Netherlands	EPI1859755	NA	2.3.4.4b
+EPI1859964	2.3.4.4b	Europe	Domestic_Birds	H5N8	Netherlands	EPI1859964	NA	2.3.4.4b
+EPI1873067	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1873067	NA	2.3.4.4b
+EPI1877839	2.3.4.4b	Europe	Wild_Birds	H5N1	Sweden	EPI1877839	NA	2.3.4.4b
+EPI1882525	2.3.4.4b	West Asia	Domestic_Birds	H5N8	Kazakhstan	EPI1882525	NA	2.3.4.4b
+EPI1883261	2.3.4.4b	China	Human	H5N6	China	EPI1883261	NA	2.3.4.4b
+EPI1883287	2.3.4.4b	Europe	Wild_Birds	H5N4	Sweden	EPI1883287	NA	2.3.4.4b
+EPI1883405	2.3.4.4b	Europe	Wild_Birds	H5N5	Bulgaria	EPI1883405	NA	2.3.4.4b
+EPI1883493	2.3.4.4b	Europe	Domestic_Birds	H5N8	Poland	EPI1883493	NA	2.3.4.4b
+EPI1883557	2.3.4.4b	Europe	Domestic_Birds	H5N8	Poland	EPI1883557	NA	2.3.4.4b
+EPI1887779	2.3.4.4x	China	Human	H5N6	China	EPI1887779	NA	2.3.4.4h
+EPI1889193	2.3.4.4b	Europe	Wild_Birds	H5N8	Sweden	EPI1889193	NA	2.3.4.4b
+EPI1890367	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1890367	NA	2.3.4.4f
+EPI1891005	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891005	NA	2.3.4.4c
+EPI1891149	2.3.4.4x	China	Domestic_Birds	H5N8	Taiwan	EPI1891149	NA	2.3.4.4c
+EPI1891181	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891181	NA	2.3.4.4c
+EPI1891237	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891237	NA	2.3.4.4c
+EPI1891275	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891275	NA	2.3.4.4c
+EPI1891299	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891299	NA	2.3.4.4c
+EPI1891362	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891362	NA	2.3.4.4c
+EPI1891386	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891386	NA	2.3.4.4c
+EPI1891394	2.3.4.4x	China	Domestic_Birds	H5N8	Taiwan	EPI1891394	NA	2.3.4.4c
+EPI1891402	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891402	NA	2.3.4.4c
+EPI1891410	2.3.4.4x	China	Domestic_Birds	H5N8	Taiwan	EPI1891410	NA	2.3.4.4c
+EPI1891418	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891418	NA	2.3.4.4c
+EPI1891426	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891426	NA	2.3.4.4c
+EPI1891442	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891442	NA	2.3.4.4c
+EPI1891466	2.3.4.4x	China	Domestic_Birds	H5N8	Taiwan	EPI1891466	NA	2.3.4.4c
+EPI1891538	2.3.4.4x	China	Domestic_Birds	H5N8	Taiwan	EPI1891538	NA	2.3.4.4c
+EPI1891594	2.3.4.4x	China	Domestic_Birds	H5N8	Taiwan	EPI1891594	NA	2.3.4.4c
+EPI1891610	2.3.4.4x	China	Domestic_Birds	H5N8	Taiwan	EPI1891610	NA	2.3.4.4c
+EPI1891642	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891642	NA	2.3.4.4c
+EPI1891698	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891698	NA	2.3.4.4c
+EPI1891722	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891722	NA	2.3.4.4c
+EPI1891730	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891730	NA	2.3.4.4c
+EPI1891762	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891762	NA	2.3.4.4c
+EPI1891874	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891874	NA	2.3.4.4c
+EPI1891890	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1891890	NA	2.3.4.4c
+EPI1892034	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892034	NA	2.3.4.4c
+EPI1892082	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892082	NA	2.3.4.4c
+EPI1892154	2.3.4.4x	China	Domestic_Birds	H5N8	Taiwan	EPI1892154	NA	2.3.4.4c
+EPI1892296	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892296	NA	2.3.4.4c
+EPI1892336	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892336	NA	2.3.4.4c
+EPI1892594	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892594	NA	2.3.4.4c
+EPI1892618	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892618	NA	2.3.4.4c
+EPI1892626	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892626	NA	2.3.4.4c
+EPI1892642	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892642	NA	2.3.4.4c
+EPI1892658	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892658	NA	2.3.4.4c
+EPI1892763	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892763	NA	2.3.4.4c
+EPI1892771	2.3.4.4x	China	Domestic_Birds	H5N2	Taiwan	EPI1892771	NA	2.3.4.4c
+EPI1892851	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892851	NA	2.3.2.1c
+EPI1892861	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892861	NA	2.3.2.1a
+EPI1892862	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892862	NA	2.3.2.1c
+EPI1892863	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892863	NA	2.3.2.1b
+EPI1892875	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892875	NA	2.3.2.1a
+EPI1892886	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892886	NA	2.3.2.1b
+EPI1892890	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892890	NA	2.3.2.1a
+EPI1892895	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892895	NA	2.3.2.1c
+EPI1892897	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892897	NA	2.3.2.1a
+EPI1892898	Minor_clade	China	Domestic_Birds	H5N1	China	EPI1892898	NA	2.3.4
+EPI1892904	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892904	NA	2.3.2.1c
+EPI1892905	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892905	NA	2.3.2.1c
+EPI1892906	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI1892906	NA	2.3.2.1c
+EPI1893065	2.3.4.4x	West Asia	Domestic_Birds	H5N6	Mongolia	EPI1893065	NA	2.3.4.4h
+EPI1897173	2.3.4.4b	South Asia	Domestic_Birds	H5N8	Pakistan	EPI1897173	NA	2.3.4.4b
+EPI1900286	2.3.4.4b	Europe	Domestic_Birds	H5N8	France	EPI1900286	NA	2.3.4.4b
+EPI1900296	2.3.4.4b	Europe	Wild_Birds	H5N8	France	EPI1900296	NA	2.3.4.4b
+EPI1901362	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	EPI1901362	NA	2.3.4.4b
+EPI1901372	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	EPI1901372	NA	2.3.4.4b
+EPI1901404	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	EPI1901404	NA	2.3.4.4b
+EPI1901531	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	EPI1901531	NA	2.3.4.4b
+EPI1903148	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1903148	NA	2.3.2.1a
+EPI1903505	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1903505	NA	2.3.2.1a
+EPI190436	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI190436	NA	2.2.1
+EPI1904744	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1904744	NA	2.3.2.1a
+EPI1921398	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI1921398	NA	2.3.4.4b
+EPI1921438	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI1921438	NA	2.3.4.4b
+EPI1921446	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI1921446	NA	2.3.4.4b
+EPI1921454	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI1921454	NA	2.3.4.4b
+EPI1921502	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI1921502	NA	2.3.4.4b
+EPI1921518	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1921518	NA	2.3.4.4b
+EPI1921630	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1921630	NA	2.3.4.4b
+EPI1924131	2.3.4.4b	Europe	Wild_Birds	H5N1	United Kingdom	EPI1924131	NA	2.3.4.4b
+EPI1924197	2.3.4.4b	West Asia	Wild_Birds	H5N8	Georgia	EPI1924197	NA	2.3.4.4b
+EPI1928247	2.3.4.4b	Europe	Wild_Birds	H5N1	Sweden	EPI1928247	NA	2.3.4.4b
+EPI1929429	2.3.4.4b	China	Domestic_Birds	H5N6	China	EPI1929429	New_Data	2.3.4.4b
+EPI1933371	2.3.4.4b	Japan Korea	Wild_Birds	H5N8	Japan	EPI1933371	NA	2.3.4.4b
+EPI1937639	2.3.4.4b	Europe	Domestic_Birds	H5N1	Poland	EPI1937639	NA	2.3.4.4b
+EPI1938828	2.3.4.4b	Europe	Wild_Birds	H5N1	Sweden	EPI1938828	NA	2.3.4.4b
+EPI1941378	2.3.4.4b	Europe	Wild_Birds	H5N1	Netherlands	EPI1941378	NA	2.3.4.4b
+EPI1942205	2.3.4.4b	China	Domestic_Birds	H5N6	China	EPI1942205	New_Data	2.3.4.4b
+EPI1942333	2.3.4.4b	Europe	Domestic_Birds	H5N8	Belgium	EPI1942333	NA	2.3.4.4b
+EPI1942938	2.3.4.4b	Europe	Wild_Birds	H5N8	Belgium	EPI1942938	NA	2.3.4.4b
+EPI1942994	2.3.4.4b	Europe	Domestic_Birds	H5N8	Belgium	EPI1942994	NA	2.3.4.4b
+EPI1943098	2.3.4.4b	Europe	Wild_Birds	H5N1	Sweden	EPI1943098	NA	2.3.4.4b
+EPI1943853	2.3.4.4b	Europe	Wild_Birds	H5N8	Germany	EPI1943853	NA	2.3.4.4b
+EPI1943880	2.3.4.4b	Europe	Domestic_Birds	H5N8	Germany	EPI1943880	NA	2.3.4.4b
+EPI1944162	2.3.4.4b	Europe	Domestic_Birds	H5N8	Germany	EPI1944162	NA	2.3.4.4b
+EPI1944166	2.3.4.4b	Europe	Wild_Birds	H5N8	Germany	EPI1944166	NA	2.3.4.4b
+EPI1944187	2.3.4.4b	Europe	Domestic_Birds	H5N8	Germany	EPI1944187	NA	2.3.4.4b
+EPI1944202	2.3.4.4b	Europe	Domestic_Birds	H5N8	Germany	EPI1944202	NA	2.3.4.4b
+EPI1944211	2.3.4.4b	Europe	Domestic_Birds	H5N8	Germany	EPI1944211	NA	2.3.4.4b
+EPI1945429	2.3.4.4b	Europe	Wild_Birds	H5N8	Estonia	EPI1945429	NA	2.3.4.4b
+EPI1945554	2.3.4.4b	Europe	Wild_Birds	H5N8	Norway	EPI1945554	NA	2.3.4.4b
+EPI1945570	2.3.4.4b	Europe	Wild_Birds	H5N8	Norway	EPI1945570	NA	2.3.4.4b
+EPI1946730	2.3.4.4b	China	Human	H5N6	China	EPI1946730	NA	2.3.4.4b
+EPI1949262	2.3.4.4b	China	Wild_Birds	H5N8	China	EPI1949262	NA	2.3.4.4b
+EPI1961993	2.3.4.4b	Europe	Domestic_Birds	H5N1	Italy	EPI1961993	NA	2.3.4.4b
+EPI1963103	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1963103	NA	2.3.4.4h
+EPI1963167	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1963167	NA	2.3.4.4h
+EPI1963260	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1963260	NA	2.3.4.4h
+EPI1963276	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI1963276	NA	2.3.4.4h
+EPI1967009	2.3.4.4b	Europe	Wild_Birds	H5N1	Netherlands	EPI1967009	NA	2.3.4.4b
+EPI1980556	2.3.4.4b	Europe	Wild_Birds	H5N1	Czech Republic	EPI1980556	NA	2.3.4.4b
+EPI1985918	2.3.4.4b	North America	Wild_Birds	H5N1	United States	EPI1985918	NA	2.3.4.4b
+EPI1988853	2.3.4.4b	Europe	Wild_Birds	H5N1	Germany	EPI1988853	NA	2.3.4.4b
+EPI1989752	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI1989752	NA	2.1.3.3
+EPI1995060	2.3.4.4b	Europe	Domestic_Birds	H5N1	Moldova	EPI1995060	NA	2.3.4.4b
+EPI1995180	2.3.4.4b	Africa	Domestic_Birds	H5N1	Niger	EPI1995180	NA	2.3.4.4b
+EPI1995212	2.3.4.4b	Africa	Domestic_Birds	H5N1	Niger	EPI1995212	NA	2.3.4.4b
+EPI1995618	2.3.4.4b	Europe	Wild_Birds	H5N1	Netherlands	EPI1995618	NA	2.3.4.4b
+EPI1997142	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI1997142	NA	2.3.2.1a
+EPI1997178	2.3.4.4b	China	Domestic_Birds	H5N6	China	EPI1997178	NA	2.3.4.4b
+EPI1997194	2.3.4.4b	China	Domestic_Birds	H5N6	China	EPI1997194	NA	2.3.4.4b
+EPI1997202	2.3.4.4b	China	Domestic_Birds	H5N6	China	EPI1997202	NA	2.3.4.4b
+EPI1997210	2.3.4.4b	China	Domestic_Birds	H5N6	China	EPI1997210	NA	2.3.4.4b
+EPI1997218	2.3.4.4b	China	Domestic_Birds	H5N6	China	EPI1997218	NA	2.3.4.4b
+EPI1997234	2.3.4.4b	China	Domestic_Birds	H5N6	China	EPI1997234	NA	2.3.4.4b
+EPI1998178	2.3.4.4b	Europe	Wild_Birds	H5N1	Spain	EPI1998178	NA	2.3.4.4b
+EPI1998210	2.3.4.4b	Europe	Wild_Birds	H5N1	Spain	EPI1998210	NA	2.3.4.4b
+EPI1998330	2.3.4.4b	Europe	Domestic_Birds	H5N1	Spain	EPI1998330	NA	2.3.4.4b
+EPI2001620	2.3.4.4b	Europe	Domestic_Birds	H5N1	United Kingdom	EPI2001620	NA	2.3.4.4b
+EPI2001628	2.3.4.4b	Europe	Domestic_Birds	H5N1	United Kingdom	EPI2001628	NA	2.3.4.4b
+EPI2008125	2.3.4.4b	Europe	Domestic_Birds	H5N1	United Kingdom	EPI2008125	NA	2.3.4.4b
+EPI2013082	2.3.4.4b	Europe	Domestic_Birds	H5N1	Belgium	EPI2013082	NA	2.3.4.4b
+EPI2014921	2.3.4.4b	Europe	Domestic_Birds	H5N2	Poland	EPI2014921	NA	2.3.4.4b
+EPI2014977	2.3.4.4b	Europe	Wild_Birds	H5N1	Poland	EPI2014977	NA	2.3.4.4b
+EPI2015009	2.3.4.4b	Europe	Wild_Birds	H5N1	Romania	EPI2015009	NA	2.3.4.4b
+EPI2016967	2.3.4.4b	North America	Domestic_Birds	H5N1	United States	EPI2016967	NA	2.3.4.4b
+EPI2022102	2.3.4.4b	Europe	Domestic_Birds	H5N8	Kosovo	EPI2022102	NA	2.3.4.4b
+EPI2029850	2.3.4.4b	China	Domestic_Birds	H5N1	China	EPI2029850	NA	2.3.4.4b
+EPI2029858	2.3.4.4b	China	Domestic_Birds	H5N1	China	EPI2029858	NA	2.3.4.4b
+EPI2029874	2.3.4.4b	China	Domestic_Birds	H5N1	China	EPI2029874	NA	2.3.4.4b
+EPI2029898	2.3.4.4b	China	Domestic_Birds	H5N1	China	EPI2029898	NA	2.3.4.4b
+EPI2035145	2.3.4.4b	North America	Domestic_Birds	H5N1	United States	EPI2035145	NA	2.3.4.4b
+EPI2042048	2.3.4.4b	Europe	Wild_Birds	H5N5	Norway	EPI2042048	NA	2.3.4.4b
+EPI2050341	2.3.4.4b	North America	Wild_Birds	H5N1	United States	EPI2050341	NA	2.3.4.4b
+EPI2050373	2.3.4.4b	North America	Domestic_Birds	H5N1	United States	EPI2050373	NA	2.3.4.4b
+EPI2053826	2.3.4.4b	North America	Domestic_Birds	H5N1	United States	EPI2053826	NA	2.3.4.4b
+EPI2058349	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI2058349	NA	2.3.2.1a
+EPI2059210	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI2059210	NA	2.3.2.1a
+EPI2059627	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI2059627	NA	2.3.2.1a
+EPI2068167	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Cambodia	EPI2068167	New_Data	2.3.4.4h
+EPI2068239	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Cambodia	EPI2068239	New_Data	2.3.4.4g
+EPI2068302	2.3.4.4b	Southeast Asia	Domestic_Birds	H5N8	Cambodia	EPI2068302	New_Data	2.3.4.4b
+EPI2073624	2.3.4.4b	Europe	Wild_Birds	H5N1	Netherlands	EPI2073624	NA	2.3.4.4b
+EPI2073640	2.3.4.4b	Europe	Wild_Birds	H5N1	Netherlands	EPI2073640	NA	2.3.4.4b
+EPI2074852	2.3.4.4b	North America	Domestic_Birds	H5N1	United States	EPI2074852	NA	2.3.4.4b
+EPI2077991	2.3.4.4b	Europe	Domestic_Birds	H5N1	Belgium	EPI2077991	NA	2.3.4.4b
+EPI2083054	2.3.4.4b	West Asia	Domestic_Birds	H5N8	Kazakhstan	EPI2083054	NA	2.3.4.4b
+EPI2085870	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI2085870	NA	2.3.2.1c
+EPI221333	2.2	South Asia	Domestic_Birds	H5N1	India	EPI221333	NA	2.2.2
+EPI221341	2.2	South Asia	Domestic_Birds	H5N1	India	EPI221341	NA	2.2.2.1
+EPI224957	2.2	Africa	Domestic_Birds	H5N1	Burkina Faso	EPI224957	NA	2.2
+EPI226718	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI226718	NA	2.1.3.2
+EPI233452	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233452	NA	2.2
+EPI233460	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233460	NA	2.2
+EPI233468	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233468	NA	2.2
+EPI233476	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233476	NA	2.2
+EPI233484	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233484	NA	2.2
+EPI233524	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233524	NA	2.2
+EPI233532	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233532	NA	2.2
+EPI233564	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233564	NA	2.2
+EPI233572	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233572	NA	2.2
+EPI233588	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233588	NA	2.2
+EPI233620	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233620	NA	2.2
+EPI233628	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233628	NA	2.2
+EPI233636	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233636	NA	2.2
+EPI233644	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233644	NA	2.2
+EPI233668	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233668	NA	2.2
+EPI233700	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233700	NA	2.2
+EPI233716	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233716	NA	2.2
+EPI233724	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233724	NA	2.2
+EPI233732	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233732	NA	2.2
+EPI233748	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233748	NA	2.2
+EPI233764	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233764	NA	2.2
+EPI233812	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233812	NA	2.2
+EPI233852	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233852	NA	2.2
+EPI233860	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233860	NA	2.2
+EPI233868	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233868	NA	2.2
+EPI233884	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233884	NA	2.2
+EPI233892	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233892	NA	2.2.1
+EPI233932	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233932	NA	2.2
+EPI233956	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233956	NA	2.2
+EPI233980	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233980	NA	2.2
+EPI233996	2.2	Africa	Domestic_Birds	H5N1	Nigeria	EPI233996	NA	2.2
+EPI241656	2.2	Europe	Wild_Birds	H5N1	Denmark	EPI241656	NA	2.2
+EPI241665	2.2	Europe	Domestic_Birds	H5N1	Denmark	EPI241665	NA	2.2
+EPI241673	2.2	Europe	Wild_Birds	H5N1	Denmark	EPI241673	NA	2.2
+EPI246279	2.3.2.1	Japan Korea	Domestic_Birds	H5N1	South Korea	EPI246279	NA	2.3.2.1
+EPI249976	Minor_clade	China	Domestic_Birds	H5N1	China	EPI249976	NA	9
+EPI259006	2.3.2.1	China	Wild_Birds	H5N1	China	EPI259006	NA	2.3.2.1c
+EPI267032	2.3.2.1	China	Human	H5N1	China	EPI267032	NA	2.3.2.1a
+EPI270100	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI270100	NA	1
+EPI270132	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI270132	NA	1
+EPI270148	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI270148	NA	1
+EPI270172	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI270172	NA	1
+EPI270180	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI270180	NA	1
+EPI270228	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI270228	NA	2.3.4.3
+EPI270236	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI270236	NA	2.3.4.3
+EPI270252	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI270252	NA	2.3.4.3
+EPI280025	Minor_clade	China	Human	H5N1	China	EPI280025	NA	2.3.4
+EPI280032	Minor_clade	China	Human	H5N1	China	EPI280032	NA	2.3.4
+EPI280039	Minor_clade	China	Human	H5N1	China	EPI280039	NA	2.3.4
+EPI280046	Minor_clade	China	Human	H5N1	China	EPI280046	NA	2.3.4
+EPI280053	Minor_clade	China	Human	H5N1	China	EPI280053	NA	2.3.4.3
+EPI280060	Minor_clade	China	Human	H5N1	China	EPI280060	NA	2.3.4
+EPI280067	Minor_clade	China	Human	H5N1	China	EPI280067	NA	2.3.4
+EPI280074	Minor_clade	China	Human	H5N1	China	EPI280074	NA	2.3.4
+EPI280120	Minor_clade	China	Human	H5N1	China	EPI280120	NA	2.3.4
+EPI280168	Minor_clade	China	Human	H5N1	China	EPI280168	NA	2.3.4.1
+EPI283859	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI283859	NA	1
+EPI283867	Minor_clade	Southeast Asia	Human	H5N1	Cambodia	EPI283867	NA	1
+EPI283988	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI283988	NA	1.1
+EPI284001	Minor_clade	Southeast Asia	Human	H5N1	Cambodia	EPI284001	NA	1.1.1
+EPI287360	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287360	NA	2.2.1.1a
+EPI287363	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287363	NA	2.2.1.1a
+EPI287364	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287364	NA	2.2.1
+EPI287365	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287365	NA	2.2.1.1a
+EPI287367	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287367	NA	2.2.1
+EPI287369	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287369	NA	2.2.1
+EPI287370	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287370	NA	2.2.1
+EPI287372	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287372	NA	2.2.1.1a
+EPI287373	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287373	NA	2.2.1.1
+EPI287374	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287374	NA	2.2.1
+EPI287375	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287375	NA	2.2.1.1a
+EPI287380	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287380	NA	2.2.1
+EPI287381	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287381	NA	2.2.1
+EPI287382	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI287382	NA	2.2.1.1a
+EPI287574	2.2	South Asia	Domestic_Birds	H5N1	India	EPI287574	NA	2.2.2
+EPI287575	2.2	South Asia	Domestic_Birds	H5N1	India	EPI287575	NA	2.2.2
+EPI287576	2.2	South Asia	Domestic_Birds	H5N1	India	EPI287576	NA	2.2.2
+EPI287578	2.2	South Asia	Domestic_Birds	H5N1	India	EPI287578	NA	2.2.2
+EPI287579	2.2	South Asia	Domestic_Birds	H5N1	India	EPI287579	NA	2.2
+EPI287684	2.2	South Asia	Domestic_Birds	H5N1	India	EPI287684	NA	2.2.2
+EPI291945	2.2	South Asia	Domestic_Birds	H5N1	India	EPI291945	NA	2.2.2.1
+EPI293912	2.2	West Asia	Domestic_Birds	H5N1	Turkey	EPI293912	NA	2.2
+EPI293928	2.2	West Asia	Domestic_Birds	H5N1	Turkey	EPI293928	NA	2.2
+EPI293936	2.2	West Asia	Domestic_Birds	H5N1	Turkey	EPI293936	NA	2.2
+EPI293960	2.2	West Asia	Domestic_Birds	H5N1	Turkey	EPI293960	NA	2.2
+EPI296699	2.3.2.1	West Asia	Wild_Birds	H5N1	Russia	EPI296699	NA	2.3.2.1c
+EPI297544	Minor_clade	Southeast Asia	Human	H5N1	Cambodia	EPI297544	NA	1
+EPI314775	2.2	South Asia	Human	H5N1	Bangladesh	EPI314775	NA	2.2.2.1
+EPI314926	Minor_clade	China	Domestic_Birds	H5N1	China	EPI314926	NA	0
+EPI317293	2.2	South Asia	Domestic_Birds	H5N1	Bhutan	EPI317293	NA	2.2.2.1
+EPI328894	Minor_clade	China	Domestic_Birds	H5N1	China	EPI328894	NA	2.3.4
+EPI332570	Minor_clade	China	Domestic_Birds	H5N1	China	EPI332570	NA	2.3.4
+EPI338612	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI338612	NA	2.2.1.2
+EPI338618	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI338618	NA	2.2.1.2
+EPI338729	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI338729	NA	2.2.1.2
+EPI341362	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI341362	NA	1.1.1
+EPI347286	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI347286	NA	1.1.1
+EPI347291	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI347291	NA	1.1.1
+EPI347293	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI347293	NA	2.3.2.1a
+EPI347300	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI347300	NA	2.3.4.1
+EPI347301	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI347301	NA	2.3.4.1
+EPI347302	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI347302	NA	2.3.4.2
+EPI352481	2.2	South Asia	Domestic_Birds	H5N1	India	EPI352481	NA	2.2.2
+EPI352489	2.2	South Asia	Domestic_Birds	H5N1	India	EPI352489	NA	2.2.2.1
+EPI352513	2.2	South Asia	Domestic_Birds	H5N1	India	EPI352513	NA	2.2.2
+EPI353372	Minor_clade	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI353372	NA	2.3.4.2
+EPI355250	2.3.2.1	Japan Korea	Wild_Birds	H5N1	Japan	EPI355250	NA	2.3.2.1c
+EPI372239	2.2	South Asia	Domestic_Birds	H5N1	India	EPI372239	NA	2.2.2
+EPI372255	2.2	South Asia	Domestic_Birds	H5N1	India	EPI372255	NA	2.2.2
+EPI372753	2.2	Africa	Human	H5N1	Egypt	EPI372753	NA	2.2.1
+EPI372939	2.2	Africa	Human	H5N1	Egypt	EPI372939	NA	2.2.1.2
+EPI372963	2.2	Africa	Human	H5N1	Egypt	EPI372963	NA	2.2.1.2
+EPI383276	Minor_clade	China	Wild_Birds	H5N1	China	EPI383276	NA	1
+EPI384245	Minor_clade	China	Wild_Birds	H5N1	China	EPI384245	NA	1-8-9-like
+EPI397642	2.2	Africa	Human	H5N1	Egypt	EPI397642	NA	2.2.1
+EPI398230	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI398230	NA	2.2.1.1a
+EPI398278	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI398278	NA	2.2.1.1a
+EPI398286	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI398286	NA	2.2.1.1
+EPI398310	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI398310	NA	2.2.1.1
+EPI398334	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI398334	NA	2.2.1.1
+EPI398342	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI398342	NA	2.2.1.1
+EPI398578	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI398578	NA	2.2.1.2
+EPI398581	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI398581	NA	2.2.1.2
+EPI399960	2.3.4.4x	China	Domestic_Birds	H5N2	China	EPI399960	NA	2.3.4.4
+EPI406424	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI406424	NA	1.1
+EPI41080	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI41080	NA	2.1.3.2
+EPI41138	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI41138	NA	2.1.3.2
+EPI41152	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI41152	NA	2.1.3.2
+EPI41533	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI41533	NA	2.1.3.2
+EPI41571	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI41571	NA	2.1.3.2
+EPI41611	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI41611	NA	2.1.3.2
+EPI41839	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI41839	NA	2.1.3.2
+EPI41915	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI41915	NA	2.1.3.2
+EPI41934	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI41934	NA	2.1.3.2
+EPI420386	Minor_clade	China	Human	H5N1	China	EPI420386	NA	2.3.4.2
+EPI424864	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI424864	NA	2.3.2.1b
+EPI424936	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI424936	NA	2.3.2.1a
+EPI425120	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425120	NA	1.1.2
+EPI425192	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425192	NA	1.1.2
+EPI425208	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425208	NA	1.1.2
+EPI425432	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425432	NA	2.3.2.1a
+EPI425464	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425464	NA	1.1.1
+EPI425512	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425512	NA	1.1.1
+EPI425544	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425544	NA	2.3.2.1a
+EPI425576	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425576	NA	1.1.1
+EPI425779	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425779	NA	2.3.2.1a
+EPI425827	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425827	NA	2.3.2.1a
+EPI425835	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425835	NA	1.1.2
+EPI425843	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425843	NA	2.3.2.1a
+EPI425955	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI425955	NA	2.3.2.1a
+EPI431456	2.3.4.4b	China	Domestic_Birds	H5N2	China	EPI431456	NA	2.3.4.4b
+EPI438830	2.2	South Asia	Domestic_Birds	H5N1	India	EPI438830	NA	2.2.2
+EPI438846	2.2	South Asia	Domestic_Birds	H5N1	India	EPI438846	NA	2.2.2
+EPI438865	2.2	South Asia	Domestic_Birds	H5N1	India	EPI438865	NA	2.2.2
+EPI438873	2.2	South Asia	Domestic_Birds	H5N1	India	EPI438873	NA	2.2.2
+EPI438882	2.2	South Asia	Domestic_Birds	H5N1	India	EPI438882	NA	2.2.2
+EPI438894	2.2	South Asia	Domestic_Birds	H5N1	India	EPI438894	NA	2.2.2
+EPI442549	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI442549	NA	2.3.2.1a
+EPI442551	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI442551	NA	2.3.2.1a
+EPI442553	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI442553	NA	2.3.2.1a
+EPI442555	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI442555	NA	2.3.2.1a
+EPI442557	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI442557	NA	2.3.2.1a
+EPI442562	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI442562	NA	2.3.2.1a
+EPI442757	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI442757	NA	2.1.3.2b
+EPI442759	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI442759	NA	2.1.3.2a
+EPI448087	2.2	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI448087	NA	2.2.2.1
+EPI448095	2.2	South Asia	Human	H5N1	Bangladesh	EPI448095	NA	2.2.2.1
+EPI448127	2.2	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI448127	NA	2.2.2.1
+EPI448135	2.2	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI448135	NA	2.2.2.1
+EPI448231	Minor_clade	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI448231	NA	2.3.4.2
+EPI448279	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI448279	NA	2.3.2.1a
+EPI458986	Minor_clade	China	Domestic_Birds	H5N2	China	EPI458986	NA	7.2
+EPI460337	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI460337	NA	1.1.1
+EPI460345	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI460345	NA	2.3.4.3
+EPI460478	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI460478	NA	2.3.4.3
+EPI460486	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI460486	NA	2.3.4.3
+EPI460502	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI460502	NA	2.3.4.3
+EPI461536	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI461536	NA	2.3.2.1c
+EPI461679	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI461679	NA	2.3.2.1a
+EPI461755	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI461755	NA	2.3.2.1
+EPI463648	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI463648	NA	2.1.3.2a
+EPI471131	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI471131	NA	2.3.2.1c
+EPI475595	2.3.2.1	China	Wild_Birds	H5N1	China	EPI475595	NA	2.3.2.1c
+EPI475603	2.3.2.1	China	Wild_Birds	H5N1	China	EPI475603	NA	2.3.2.1b
+EPI485818	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI485818	NA	2.1.3.2
+EPI486487	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI486487	NA	2.1.3.2
+EPI487454	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI487454	NA	2.1.3.2b
+EPI487461	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI487461	NA	2.1.3.2b
+EPI487525	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI487525	NA	2.1.3.2b
+EPI487549	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI487549	NA	2.1.3.2b
+EPI489378	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI489378	NA	2.1.3.2
+EPI49183	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI49183	NA	2.1.3.2
+EPI49202	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI49202	NA	2.1.3.2
+EPI49264	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI49264	NA	2.1.3.2
+EPI493160	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI493160	NA	2.2.1.1a
+EPI493175	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI493175	NA	2.2.1.1a
+EPI493222	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI493222	NA	2.2.1.1a
+EPI493246	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI493246	NA	2.2.1.1a
+EPI493430	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI493430	NA	2.2.1.2
+EPI493452	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI493452	NA	2.2.1.1a
+EPI493497	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI493497	NA	2.2.1.2
+EPI493519	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI493519	NA	2.2.1.1a
+EPI500109	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI500109	NA	2.2.1.2
+EPI500110	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI500110	NA	2.2.1.2
+EPI506655	Minor_clade	China	Domestic_Birds	H5N2	China	EPI506655	NA	7.2
+EPI510265	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI510265	NA	2.3.2.1a
+EPI510273	2.2	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI510273	NA	2.2.2.1
+EPI510333	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI510333	NA	2.3.2.1a
+EPI510426	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI510426	NA	2.3.2.1a
+EPI510442	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI510442	NA	2.3.2.1a
+EPI510455	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI510455	NA	2.3.2.1a
+EPI527289	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bhutan	EPI527289	NA	2.3.2.1a
+EPI527291	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bhutan	EPI527291	NA	2.3.2.1a
+EPI527297	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bhutan	EPI527297	NA	2.3.2.1a
+EPI527305	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bhutan	EPI527305	NA	2.3.2.1a
+EPI527313	2.3.2.1	South Asia	Wild_Birds	H5N1	Bhutan	EPI527313	NA	2.3.2.1a
+EPI527334	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bhutan	EPI527334	NA	2.3.2.1a
+EPI530986	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI530986	NA	2.3.4.4b
+EPI531266	Minor_clade	Southeast Asia	Human	H5N1	Cambodia	EPI531266	NA	1.1.2
+EPI531324	Minor_clade	Southeast Asia	Human	H5N1	Cambodia	EPI531324	NA	1.1.2
+EPI531959	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI531959	NA	2.1.3.2a
+EPI542906	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI542906	NA	1.1.2
+EPI542914	Minor_clade	Southeast Asia	Human	H5N1	Cambodia	EPI542914	NA	1.1.2
+EPI542922	Minor_clade	Southeast Asia	Human	H5N1	Cambodia	EPI542922	NA	1.1.2
+EPI543002	2.3.4.4x	China	Domestic_Birds	H5N8	China	EPI543002	NA	2.3.4.4c
+EPI544892	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI544892	NA	2.3.4.4b
+EPI547699	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI547699	NA	2.1.3.2b
+EPI548310	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Indonesia	EPI548310	NA	2.1.3.2
+EPI553219	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI553219	NA	2.3.2.1a
+EPI553223	Minor_clade	China	Domestic_Birds	H5N1	China	EPI553223	NA	7.2
+EPI553276	Minor_clade	China	Domestic_Birds	H5N1	China	EPI553276	NA	7.2
+EPI553284	Minor_clade	China	Domestic_Birds	H5N1	China	EPI553284	NA	7.2
+EPI553292	Minor_clade	China	Domestic_Birds	H5N1	China	EPI553292	NA	7.2
+EPI553300	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI553300	NA	2.3.2.1c
+EPI557170	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI557170	NA	2.2.1.2
+EPI557186	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI557186	NA	2.2.1.2
+EPI55719	Minor_clade	Southeast Asia	Human	H5N1	Indonesia	EPI55719	NA	2.1.3.2
+EPI557202	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI557202	NA	2.2.1.2
+EPI557210	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI557210	NA	2.2.1.2
+EPI557218	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI557218	NA	2.2.1.2
+EPI559071	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI559071	NA	2.3.2.1a
+EPI559074	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI559074	NA	1.1.1
+EPI559077	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI559077	NA	1.1.2
+EPI559078	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI559078	NA	2.3.2.1b
+EPI559079	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI559079	NA	2.3.2.1a
+EPI559092	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI559092	NA	2.3.2.1a
+EPI559093	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI559093	NA	2.3.2.1b
+EPI559096	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI559096	NA	2.3.2.1c
+EPI559097	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI559097	NA	1.1.2
+EPI559205	2.3.2.1	Southeast Asia	Domestic_Birds	H5N2	Vietnam	EPI559205	NA	2.3.2.1c
+EPI567077	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI567077	NA	2.3.2.1c
+EPI573260	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI573260	NA	2.2.1.2
+EPI573268	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI573268	NA	2.2.1.2
+EPI574125	2.2	Africa	Human	H5N1	Egypt	EPI574125	NA	2.2.1.2
+EPI574381	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI574381	NA	2.2.1.2
+EPI576648	Minor_clade	China	Domestic_Birds	H5N2	China	EPI576648	NA	7.2
+EPI576655	Minor_clade	China	Domestic_Birds	H5N2	China	EPI576655	NA	7.2
+EPI576662	Minor_clade	China	Domestic_Birds	H5N2	China	EPI576662	NA	7.2
+EPI581559	Minor_clade	China	Domestic_Birds	H5N2	China	EPI581559	NA	7.2
+EPI585111	2.3.4.4x	Europe	Wild_Birds	H5N8	Netherlands	EPI585111	NA	2.3.4.4c
+EPI590073	2.3.2.1	Southeast Asia	Domestic_Birds	H5N8	Vietnam	EPI590073	NA	2.3.2.1c
+EPI590896	2.3.4.4x	China	Domestic_Birds	H5N1	China	EPI590896	NA	2.3.4.4g
+EPI596295	2.3.4.4x	Europe	Wild_Birds	H5N8	Netherlands	EPI596295	NA	2.3.4.4c
+EPI597677	Minor_clade	China	Domestic_Birds	H5N1	China	EPI597677	NA	2.3.4
+EPI600483	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI600483	NA	2.3.2.1b
+EPI610974	Minor_clade	Southeast Asia	Human	H5N1	Thailand	EPI610974	NA	1
+EPI624922	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI624922	NA	1.1.2
+EPI631928	2.3.2.1	West Asia	Wild_Birds	H5N1	Russia	EPI631928	NA	2.3.2.1c
+EPI639606	Minor_clade	Southeast Asia	Human	H5N1	Vietnam	EPI639606	NA	1.1.1
+EPI642475	2.3.2.1	South Asia	Domestic_Birds	H5N1	India	EPI642475	NA	2.3.2.1a
+EPI642537	2.2	Africa	Human	H5N1	Egypt	EPI642537	NA	2.2.1.2
+EPI644404	2.3.2.1	South Asia	Domestic_Birds	H5N1	India	EPI644404	NA	2.3.2.1a
+EPI644407	2.3.2.1	South Asia	Domestic_Birds	H5N1	India	EPI644407	NA	2.3.2.1a
+EPI644506	2.3.2.1	South Asia	Wild_Birds	H5N1	India	EPI644506	NA	2.3.2.1a
+EPI646024	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI646024	NA	2.3.4.4
+EPI653115	Minor_clade	China	Domestic_Birds	H5N1	China	EPI653115	NA	2.3.4
+EPI656698	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI656698	NA	2.3.2.1c
+EPI656746	Minor_clade	China	Domestic_Birds	H5N2	China	EPI656746	NA	7.2
+EPI657298	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI657298	NA	2.3.4.4d
+EPI658567	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI658567	NA	2.3.2.1c
+EPI658719	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI658719	NA	2.3.4.4e
+EPI658751	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI658751	NA	2.3.4.4e
+EPI658839	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI658839	NA	2.3.4.4e
+EPI659231	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI659231	NA	2.3.4.4e
+EPI659455	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI659455	NA	2.3.4.4e
+EPI659551	Minor_clade	China	Domestic_Birds	H5N2	China	EPI659551	NA	7.2
+EPI659583	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI659583	NA	2.3.2.1c
+EPI659591	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI659591	NA	2.3.4.4
+EPI659599	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI659599	NA	2.3.4.4b
+EPI659623	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI659623	NA	2.3.4.4b
+EPI660023	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI660023	NA	2.3.4.4h
+EPI660071	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI660071	NA	2.3.4.4e
+EPI660287	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI660287	NA	2.3.4.4e
+EPI660447	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI660447	NA	2.3.4.4e
+EPI660671	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI660671	NA	2.3.4.4e
+EPI660743	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI660743	NA	2.3.4.4f
+EPI660791	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI660791	NA	2.3.4.4h
+EPI660975	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI660975	NA	2.3.4.4g
+EPI661047	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI661047	NA	2.3.4.4
+EPI661647	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI661647	NA	2.3.4.4b
+EPI661903	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI661903	NA	2.3.4.4f
+EPI662681	2.3.4.4x	North America	Domestic_Birds	H5N2	United States	EPI662681	NA	2.3.4.4c
+EPI668768	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI668768	NA	2.3.4.4e
+EPI668895	2.3.4.4x	China	Human	H5N6	China	EPI668895	NA	2.3.4.4e
+EPI669776	2.3.2.1	China	Wild_Birds	H5N1	China	EPI669776	NA	2.3.2.1c
+EPI671533	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI671533	NA	2.3.4.4e
+EPI672774	Minor_clade	China	Wild_Birds	H5N2	China	EPI672774	NA	7.2
+EPI672787	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI672787	NA	2.3.4.4b
+EPI681274	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI681274	NA	2.3.2.1c
+EPI681279	2.3.4.4x	China	Domestic_Birds	H5N2	China	EPI681279	NA	2.3.4.4d
+EPI681280	2.3.4.4b	China	Domestic_Birds	H5N2	China	EPI681280	NA	2.3.4.4b
+EPI681288	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI681288	NA	2.3.4.4
+EPI681297	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI681297	NA	2.3.4.4b
+EPI684541	2.3.4.4x	China	Human	H5N6	China	EPI684541	NA	2.3.4.4d
+EPI687311	2.3.4.4x	China	Domestic_Birds	H5N1	China	EPI687311	NA	2.3.4.4g
+EPI687523	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI687523	NA	2.3.4.4h
+EPI687539	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI687539	NA	2.3.4.4f
+EPI687704	2.3.4.4x	China	Human	H5N6	China	EPI687704	NA	2.3.4.4d
+EPI690440	2.3.4.4x	North America	Wild_Birds	H5N8	United States	EPI690440	NA	2.3.4.4c
+EPI690808	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI690808	NA	2.3.4.4b
+EPI693817	2.3.4.4x	China	Human	H5N6	China	EPI693817	NA	2.3.4.4d
+EPI703591	2.3.4.4x	China	Domestic_Birds	H5N8	China	EPI703591	NA	2.3.4.4
+EPI703599	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI703599	NA	2.3.4.4b
+EPI718499	2.3.2.1	China	Domestic_Birds	H5N9	China	EPI718499	NA	2.3.2.1c
+EPI762150	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI762150	NA	2.3.4.4b
+EPI764411	Minor_clade	China	Domestic_Birds	H5N1	China	EPI764411	NA	2.3.4
+EPI770696	2.3.2.1	Africa	Domestic_Birds	H5N1	Ghana	EPI770696	NA	2.3.2.1c
+EPI774540	2.3.2.1	West Asia	Domestic_Birds	H5N1	Lebanon	EPI774540	NA	2.3.2.1c
+EPI775018	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI775018	NA	2.3.2.1c
+EPI775057	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI775057	NA	1.1.2
+EPI775081	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI775081	NA	2.3.2.1c
+EPI817163	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	EPI817163	NA	2.3.4.4f
+EPI823940	2.3.4.4x	China	Domestic_Birds	H5N2	China	EPI823940	NA	2.3.4.4c
+EPI827072	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI827072	NA	2.2.1.2
+EPI837439	Minor_clade	China	Domestic_Birds	H5N1	China	EPI837439	NA	7.2
+EPI837481	Minor_clade	China	Domestic_Birds	H5N1	China	EPI837481	NA	7.2
+EPI837489	Minor_clade	China	Domestic_Birds	H5N2	China	EPI837489	NA	7.2
+EPI837504	Minor_clade	China	Domestic_Birds	H5N2	China	EPI837504	NA	7.2
+EPI837511	Minor_clade	China	Domestic_Birds	H5N1	China	EPI837511	NA	7.2
+EPI839139	2.3.4.4x	China	Wild_Birds	H5N6	China	EPI839139	NA	2.3.4.4g
+EPI840361	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI840361	NA	1.1.2
+EPI840500	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI840500	NA	1.1.2
+EPI845368	2.3.4.4x	North America	Wild_Birds	H5N2	United States	EPI845368	NA	2.3.4.4c
+EPI853979	2.3.4.4x	North America	Domestic_Birds	H5N1	Canada	EPI853979	NA	2.3.4.4c
+EPI858828	2.3.4.4b	China	Domestic_Birds	H5N8	China	EPI858828	NA	2.3.4.4b
+EPI858836	2.3.4.4b	South Asia	Wild_Birds	H5N8	India	EPI858836	NA	2.3.4.4b
+EPI860421	2.3.4.4x	Japan Korea	Domestic_Birds	H5N6	Japan	EPI860421	NA	2.3.4.4d
+EPI860824	2.3.2.1	Japan Korea	Domestic_Birds	H5N1	Japan	EPI860824	NA	2.3.2.1c
+EPI866077	2.3.4.4x	Japan Korea	Domestic_Birds	H5N6	South Korea	EPI866077	NA	2.3.4.4e
+EPI866144	2.3.4.4x	Japan Korea	Wild_Birds	H5N6	South Korea	EPI866144	NA	2.3.4.4e
+EPI869938	2.3.4.4b	West Asia	Domestic_Birds	H5N8	Russia	EPI869938	NA	2.3.4.4b
+EPI873668	2.3.4.4x	China	Human	H5N6	China	EPI873668	NA	2.3.4.4g
+EPI873669	2.3.4.4x	China	Human	H5N6	China	EPI873669	NA	2.3.4.4g
+EPI881069	2.3.4.4x	Japan Korea	Domestic_Birds	H5N6	Japan	EPI881069	NA	2.3.4.4e
+EPI889107	2.3.4.4x	China	Wild_Birds	H5N6	China	EPI889107	NA	2.3.4.4d
+EPI893524	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI893524	NA	2.3.2.1c
+EPI895113	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI895113	NA	2.3.4.4c
+EPI895114	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI895114	NA	2.3.4.4f
+EPI895121	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI895121	NA	2.3.4.4
+EPI895124	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI895124	NA	2.3.4.4e
+EPI898307	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI898307	NA	2.3.2.1c
+EPI898407	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI898407	NA	2.3.2.1c
+EPI898497	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI898497	NA	2.3.2.1c
+EPI898523	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI898523	NA	2.3.2.1c
+EPI898645	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI898645	NA	1.1.2
+EPI898661	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI898661	NA	1.1.2
+EPI898694	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI898694	NA	1.1.2
+EPI898751	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI898751	NA	2.3.2.1a
+EPI898767	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI898767	NA	7.2
+EPI898825	Minor_clade	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI898825	NA	1.1.2
+EPI899023	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	EPI899023	NA	2.3.2.1a
+EPI907098	2.3.4.4x	Japan Korea	Domestic_Birds	H5N6	Japan	EPI907098	NA	2.3.4.4e
+EPI942073	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI942073	NA	2.3.2.1c
+EPI942074	2.3.2.1	China	Domestic_Birds	H5N1	China	EPI942074	NA	2.3.2.1c
+EPI942917	2.3.4.4x	China	Domestic_Birds	H5N2	China	EPI942917	NA	2.3.4.4c
+EPI942919	2.3.4.4x	China	Domestic_Birds	H5N2	China	EPI942919	NA	2.3.4.4c
+EPI954442	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Cambodia	EPI954442	NA	2.3.2.1c
+EPI954663	2.3.4.4b	Europe	Domestic_Birds	H5N8	Hungary	EPI954663	NA	2.3.4.4b
+EPI954735	2.3.4.4b	Europe	Wild_Birds	H5N8	Hungary	EPI954735	NA	2.3.4.4b
+EPI954759	2.3.4.4b	Europe	Wild_Birds	H5N8	Hungary	EPI954759	NA	2.3.4.4b
+EPI954869	2.3.4.4b	Europe	Wild_Birds	H5N8	Hungary	EPI954869	NA	2.3.4.4b
+EPI956098	Minor_clade	Southeast Asia	Human	H5N1	Cambodia	EPI956098	NA	1.1.2
+EPI957907	2.3.2.1	China	Domestic_Birds	H5N6	China	EPI957907	NA	2.3.2.1c
+EPI957967	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI957967	NA	2.3.4.4
+EPI957991	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI957991	NA	2.3.4.4e
+EPI958030	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI958030	NA	2.3.4.4
+EPI958072	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI958072	NA	2.3.4.4
+EPI958672	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI958672	NA	2.3.4.4
+EPI958720	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI958720	NA	2.3.4.4e
+EPI958760	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI958760	NA	2.3.4.4e
+EPI958866	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI958866	NA	2.3.4.4g
+EPI959018	2.3.4.4x	China	Domestic_Birds	H5N6	China	EPI959018	NA	2.3.4.4g
+EPI959130	2.3.4.4b	Europe	Wild_Birds	H5N8	Netherlands	EPI959130	NA	2.3.4.4b
+EPI961933	2.3.4.4x	China	Domestic_Birds	H5N8	Taiwan	EPI961933	NA	2.3.4.4c
+EPI962399	2.3.4.4x	Japan Korea	Wild_Birds	H5N6	Japan	EPI962399	NA	2.3.4.4e
+EPI962463	2.3.4.4x	Japan Korea	Wild_Birds	H5N6	Japan	EPI962463	NA	2.3.4.4e
+EPI964937	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI964937	NA	2.3.2.1a
+EPI964990	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI964990	NA	2.3.2.1a
+EPI965024	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI965024	NA	2.3.2.1a
+EPI965063	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI965063	NA	2.3.2.1a
+EPI965188	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI965188	NA	2.3.2.1a
+EPI965289	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI965289	NA	2.3.2.1a
+EPI965354	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI965354	NA	2.3.2.1a
+EPI965515	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	EPI965515	NA	2.3.2.1a
+EPI965956	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI965956	NA	2.2.1.2
+EPI965961	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI965961	NA	2.2.1.2
+EPI965962	2.2	Africa	Domestic_Birds	H5N1	Egypt	EPI965962	NA	2.2.1.2
+EPI981847	2.3.4.4b	Europe	Wild_Birds	H5N5	Germany	EPI981847	NA	2.3.4.4b
+EPI990786	2.3.4.4b	Europe	Wild_Birds	H5N8	Germany	EPI990786	NA	2.3.4.4b
+JQ277225	Minor_clade	China	Domestic_Birds	H5N1	China	JQ277225	NA	7
+KM267842	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	KM267842	NA	2.3.2.1a
+KT220555	2.2	Africa	Domestic_Birds	H5N1	Egypt	KT220555	NA	2.2.1.2
+KT361926	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	KT361926	NA	2.3.2.1a
+KT361934	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	KT361934	NA	2.3.2.1a
+KT361954	2.3.2.1	South Asia	Domestic_Birds	H5N1	Bangladesh	KT361954	NA	2.3.2.1a
+LC167510	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	LC167510	NA	2.3.2.1c
+LC167662	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	LC167662	NA	2.3.2.1c
+LC167726	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	LC167726	NA	2.3.2.1c
+LC379958	2.2	Africa	Domestic_Birds	H5N1	Egypt	LC379958	NA	2.2.1.2
+LC536298	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	LC536298	NA	2.3.4.4g
+LC536322	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	LC536322	NA	2.3.4.4g
+MF926453	2.3.4.4b	West Asia	Domestic_Birds	H5N8	Russia	MF926453	NA	2.3.4.4b
+MH283029	2.3.4.4b	China	Wild_Birds	H5N6	China	MH283029	NA	2.3.4.4b
+MK734294	2.3.4.4b	Africa	Wild_Birds	H5N8	South Africa	MK734294	NA	2.3.4.4b
+MK779131	2.3.4.4x	China	Wild_Birds	H5N6	China	MK779131	NA	2.3.4.4e
+MK943522	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	MK943522	NA	2.3.4.4f
+MN038184	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	MN038184	NA	2.3.4.4b
+MN128638	2.3.4.4x	China	Domestic_Birds	H5N6	China	MN128638	NA	2.3.4.4e
+MN128870	2.3.4.4x	China	Domestic_Birds	H5N6	China	MN128870	NA	2.3.4.4d
+MN759473	2.3.4.4b	Africa	Domestic_Birds	H5N8	Nigeria	MN759473	NA	2.3.4.4b
+MN875108	2.3.4.4b	Europe	Domestic_Birds	H5N8	France	MN875108	NA	2.3.4.4b
+MT200003	2.3.2.1	Southeast Asia	Domestic_Birds	H5N1	Vietnam	MT200003	NA	2.3.2.1c
+MT200035	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	MT200035	NA	2.3.4.4g
+MW872782	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	MW872782	NA	2.3.4.4h
+MW873143	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	MW873143	NA	2.3.4.4h
+MW873453	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	MW873453	NA	2.3.4.4h
+MW935923	2.3.4.4x	Southeast Asia	Domestic_Birds	H5N6	Vietnam	MW935923	NA	2.3.4.4h
+MZ235334	2.3.4.4b	Japan Korea	Wild_Birds	H5N8	Japan	MZ235334	NA	2.3.4.4b
+MZ235342	2.3.4.4b	Japan Korea	Wild_Birds	H5N8	Japan	MZ235342	NA	2.3.4.4b
+OL354818	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	OL354818	NA	2.3.4.4b
+OL354888	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	OL354888	NA	2.3.4.4b
+OL354925	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	OL354925	NA	2.3.4.4b
+OL354982	2.3.4.4b	Africa	Domestic_Birds	H5N8	Egypt	OL354982	NA	2.3.4.4b

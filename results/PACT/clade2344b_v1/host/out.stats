@@ -1,0 +1,6 @@
+statistic	lower	mean	upper
+persistence_all	0.181595	1.21456	2.29868
+persistence_1	nan	nan	nan
+persistence_Domestic	0.107078	0.44937	0.634996
+persistence_Human	0.0746018	0.254703	0.21863
+persistence_Wild	2.04549	2.05857	2.46221

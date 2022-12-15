@@ -1,0 +1,7 @@
+statistic	lower	mean	upper
+subrate	0	0	0
+persistence_all	1.24325	3.75354	5.74389
+persistence_1	-nan	-nan	-nan
+persistence_Domestic	3.38168	5.44898	7.48518
+persistence_Human	0.371647	0.781517	0.849048
+persistence_Wild	0.495701	1.16394	1.74407
