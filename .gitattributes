@@ -1,1 +1,2 @@
 auspice/H5.json filter=lfs diff=lfs merge=lfs -text
+auspice/episodic-h5_H5.json filter=lfs diff=lfs merge=lfs -text
