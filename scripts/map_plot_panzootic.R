@@ -6,7 +6,6 @@ library(diagram)
 library(stringr) 
 library(viridis)
 
-setwd("/Users/vjlab-mac-server-001/workspace/ruopeng/HPAIH5/seraphim")
 
 # estimating dispersal statistics
 
